@@ -1,0 +1,6 @@
+{
+  "extends": [
+    "@yuzhang9804",
+    "vue-global-api"
+  ]
+}
